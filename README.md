@@ -2,7 +2,7 @@
 I'm a junior Python developer from Uzbekistan. I'm currently learning web scraping, automation, SQL, and Data Analytics.
 
 🔧 Technologies:
-- Python, BeautifulSoup, Selenium  
+- Python, BeautifulSoup, Selenium(in progress)  
 - SQL (in progress)  
 - Git, GitHub
 
