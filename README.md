@@ -1,8 +1,8 @@
 ### Hi there! I'm Azam 👋  
-I'm a junior Python developer from Uzbekistan. I'm currently learning web scraping, automation, SQL, and Data Analytics.
+I'm a junior Python developer from Uzbekistan. I'm currently learning automation, SQL, and Data Analytics.
 
 🔧 Technologies:
-- Python, BeautifulSoup, Selenium(in progress)  
+- Python, aiogarm  
 - SQL (in progress)  
 - Git, GitHub
 
